@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6cded8b1.css",
+    "main.js": "/static/js/main.f94bd370.js",
+    "static/js/787.62160a39.chunk.js": "/static/js/787.62160a39.chunk.js",
+    "static/media/ruangguru.svg": "/static/media/ruangguru.8160181e11e5a79b04751c93a916de05.svg",
+    "static/media/cover.png": "/static/media/cover.d770e9fd0ae525270dc2.png",
+    "static/media/webinar-detail.png": "/static/media/webinar-detail.3d99d10bcee2aaf39ac8.png",
+    "static/media/success.png": "/static/media/success.1d91c941777f36f87fe4.png",
+    "static/media/webinar.png": "/static/media/webinar.afa22078be4de7edc845.png",
+    "static/media/logo.png": "/static/media/logo.db301a98f3dc80b2e834.png",
+    "static/media/logo-full.png": "/static/media/logo-full.ff2c4df30de62e450203.png",
+    "index.html": "/index.html",
+    "main.6cded8b1.css.map": "/static/css/main.6cded8b1.css.map",
+    "main.f94bd370.js.map": "/static/js/main.f94bd370.js.map",
+    "787.62160a39.chunk.js.map": "/static/js/787.62160a39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cded8b1.css",
+    "static/js/main.f94bd370.js"
+  ]
+}
